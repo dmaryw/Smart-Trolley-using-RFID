@@ -3,4 +3,4 @@ A Smart Trolley using RFID is an advanced shopping cart equipped with Radio Freq
 It replaces the traditional barcode scanning at checkout with automatic item recognition, which speeds up the billing process and improves the shopping experience.
 Components Used
 1) LPC2129 Microcontroller
-2) 2) RFID18 Reader
+2) RFID18 Reader
